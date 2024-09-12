@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800194246830",
+    "project_id": "project-for-ling-ting",
+    "storage_bucket": "project-for-ling-ting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800194246830:android:c9fc0e778f171bdb13d53f",
+        "android_client_info": {
+          "package_name": "com.example.project1763"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy0nSmL7dWt3X8UP8ei0g8Ukv6R0GCjl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
